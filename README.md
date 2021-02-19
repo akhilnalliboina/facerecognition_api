@@ -15,4 +15,4 @@ To get the application running locally:
          $ npm start
 ```
 
-The API is now starts running on local web server, It will use port 3000. Port can be onfigured in scripts section of `package.json`.
+The API is now starts running on local web server, It will use port 3000. Port can be configured in scripts section of `package.json`.
